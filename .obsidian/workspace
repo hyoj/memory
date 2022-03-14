@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "ffb9990c5e2b8fee",
+    "type": "split",
+    "children": [
+      {
+        "id": "138a5f85e75eb37d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "kotlin/연산자 오버로딩.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f8d9bab131ab6cec",
+    "type": "split",
+    "children": [
+      {
+        "id": "304a193277dfc817",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6cc425e47c3b64db",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9f205404d2a786dd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f03ec09209704c15",
+    "type": "split",
+    "children": [
+      {
+        "id": "a96a15ca6e4a550d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff409ca32cbcfbca",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "kotlin/연산자 오버로딩.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "138a5f85e75eb37d",
+  "lastOpenFiles": [
+    "kotlin/연산자 오버로딩.md",
+    "README.md"
+  ]
+}
