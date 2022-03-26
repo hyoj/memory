@@ -1,0 +1,1 @@
+[[Spring Boot]JSP 제약사항 (tistory.com)](https://hye0-log.tistory.com/28?category=878197)
