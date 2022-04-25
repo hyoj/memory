@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.99999809265137
+    "width": 330
   },
   "right": {
     "id": "f03ec09209704c15",
@@ -90,6 +90,7 @@
   "active": "2a4f35f2d33fb19c",
   "lastOpenFiles": [
     "kotlin/애노테이션.md",
+    "kotlin/리플렉션.md",
     "kotlin/연산자 오버로딩.md",
     "kotlin/애노테이션.pdf",
     "kotlin/애너테이션.md",
@@ -97,7 +98,6 @@
     "용어/일급 함수.md",
     "spring/JSP 제약사항.md",
     "kotlin/인터페이스.md",
-    "kotlin/확장 (Extentions).md",
-    "java/접근제어자(Access Modifier).md"
+    "kotlin/확장 (Extentions).md"
   ]
 }
