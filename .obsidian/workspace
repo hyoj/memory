@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "kotlin/애노테이션.md",
+            "file": "kotlin/코틀린 코드 문서화 (KDoc, Dokka).md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330
+    "width": 330,
+    "collapsed": true
   },
   "right": {
     "id": "f03ec09209704c15",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kotlin/애노테이션.md",
+                "file": "kotlin/코틀린 코드 문서화 (KDoc, Dokka).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +90,7 @@
   },
   "active": "2a4f35f2d33fb19c",
   "lastOpenFiles": [
+    "kotlin/코틀린 코드 문서화 (KDoc, Dokka).md",
     "kotlin/애노테이션.md",
     "kotlin/리플렉션.md",
     "kotlin/연산자 오버로딩.md",
@@ -97,7 +99,6 @@
     "java/애너테이션(Annotation).md",
     "용어/일급 함수.md",
     "spring/JSP 제약사항.md",
-    "kotlin/인터페이스.md",
-    "kotlin/확장 (Extentions).md"
+    "kotlin/인터페이스.md"
   ]
 }
