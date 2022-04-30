@@ -28,7 +28,7 @@ class Group<T>(val name: String) {
 ```
 
 ---
-![](exam_doc1.png)
+![](exam_kdoc.png)
 
 ---
 ## Dokka
@@ -60,7 +60,7 @@ build\\dokka\\html 에서 확인할 수 있다.
 
 ---
 
-![[Pasted image 20220427062544.png]]
+![](exam_dokka.png)
 
 ---
 Referecnes
